@@ -1,0 +1,18 @@
+# Koncepció
+# 2018.03.23. LUKACS Krisztian, Budapest.
+
+1. Soros és párhuzamos kommunikáció a Raspberry Pi interfaceken
+2. GPS kártya olvasása
+3. Fájlba írni az adatokat ( amit soros vagy párhuzamos porton kapok el)
+4. Adatbázisba írni az adatokat
+5. Adatokat feltölteni egy webes szervernek 
+6. Kijelző meghajtása
+7. LCD meghajtása
+8. Sim kártya meghajtása
+9. Adat kommunikáció SIM -en keresztül
+10. UserMachine eventeket küldeni a Raspberry Pi alkalmazásból
+
+Webeszerever:
+
+1. Elkapni a küldött adatokat
+2. Google Map -ben megjeleníteni az adatokat
