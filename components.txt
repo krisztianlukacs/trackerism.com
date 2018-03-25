@@ -1,3 +1,16 @@
 # Komponenesek
 # 2018.03.18. Lukacs Krisztian, Budapest
 
+- Flash kártya írása: etcher.io
+- Teljesítmény teszt: sysbench
+	- sysbench --test=cpu --cpu-max-prime=10000 run --num-threads=8
+	- sudo apt-get install sysbench
+	
+	
+	
+ls -l /dev/ttyUSB0
+ls -l /dev/ttyS*
+
+screen /dev/ttyUSB0 115200
+
+screen /dev/ttyS0 9600
